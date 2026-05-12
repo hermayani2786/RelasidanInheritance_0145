@@ -13,3 +13,5 @@ public:
         cout << "jantung dimatikan\n";
     }
 };
+
+#endif
